@@ -1,0 +1,7 @@
+node -v -> for cheking node avilable version
+npm init -> for creating package manager , node package manager 1 repository ko 
+initizlized kar dega , phir package ki process karne ke baad 
+package.json file create hogi.
+https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj-ye link past kiya
+
+uske baad git init -> isse git repozitori mai code ko puch karne ke liye
